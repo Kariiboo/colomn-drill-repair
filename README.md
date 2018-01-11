@@ -1,9 +1,11 @@
 # Colomn drilling machine safety cover support 3D model
 
-- **Author**: Nicolas Moteau (nicolas.moteau@orange.fr)
-- **License**: [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+**Author**: Nicolas Moteau (nicolas.moteau@orange.fr)
+**License**: [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
-[FR] Support de carter pour perceuse à colonne
+  [FR] Support de carter pour perceuse à colonne
+
+## Description
 
 An OpenSCAD 3D model for a colomn drilling machine safety cover support.
 
@@ -13,4 +15,4 @@ The original piece is build of ABS plastic. The conception of the colomn drillin
 
 ## Documentation
 
-- Nut dimentions: https://fr.wikipedia.org/wiki/%C3%89crou_hexagonal
+- About nut dimentions: https://fr.wikipedia.org/wiki/%C3%89crou_hexagonal
