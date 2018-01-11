@@ -6,7 +6,7 @@ Description:
 [FR] Support de carter pour perceuse à colonne
 
 Author: Nicolas Moteau (nicolas.moteau@orange.fr)
-Version: 0.0.3
+Version: 0.0.4
 License: [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 */
 
