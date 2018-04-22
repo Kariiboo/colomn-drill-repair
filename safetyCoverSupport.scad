@@ -7,7 +7,7 @@ Description:
 
 Author: Nicolas Moteau (nicolas.moteau@orange.fr)
 Version: 0.0.4
-License: [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+License: [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
 */
 
 // Precision
