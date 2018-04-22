@@ -7,7 +7,7 @@ See the [README.md](README.md) file for a description of the project.
 All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/) and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
 
-## [V0.0.4] - 2018-01-11
+## [V0.0.4] - 2018-01-11 - 2nd printed version (on 2018-04-04)
 
 ### Changed
 
