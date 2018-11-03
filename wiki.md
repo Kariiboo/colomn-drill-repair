@@ -8,12 +8,12 @@ Le plastique est moins résistant que le métal et va casser tôt ou tard. C'est
 J'ai envisagé plusieurs possibilité pour réparer:
 
 - Recoller le morceau cassé sur le support :
-    J'ai essayé... mais pas comme il aurait fallu et ça n'a pas tenu... J'ai coller encore. C'est moche, mais ça tient pour le moment. Il faudra vite une autre solution.
+    J'ai essayé... mais pas comme il aurait fallu et ça n'a pas tenu... J'ai collé encore. C'est moche, mais ça tient pour le moment. Il faudra vite une autre solution.
 - Racheter un support :
-    Après tout, ce n'est qu'un bout de plastique. Mais il faut commander le support, le carter de protection, deux ressorts et des boulons. Le tout pour un peu plus de 22€ [ici](http://www.worken.fr/p/120/Perceuse-a-colonne/Protection-De-Mandrin-De-Rechange-Pour-AC13TP) (12,50€ + les frais de port). C'est acceptable, mais c'est un peu domage de commander tout ça. Et en plus, ça recassera un jour.
+    Après tout, ce n'est qu'un bout de plastique. Mais il faut commander le support, le carter de protection en plexiglass, deux ressorts et des boulons. Le tout pour un peu plus de 22€ [ici](http://www.worken.fr/p/120/Perceuse-a-colonne/Protection-De-Mandrin-De-Rechange-Pour-AC13TP) (12,50€ + les frais de port). C'est acceptable, mais c'est un peu dommage de commander tout ça. Et en plus, ça recassera un jour.
 
 - Refaire un support en plastique avec une imprimante 3D :
-    Modéliser et imprimer uniquement la partie abimée. Et en imprimer une autre quand elle cassera à nouveau. L'idée est belle.
+    Modéliser et imprimer uniquement la partie abîmée. Et en imprimer une autre quand elle cassera à nouveau. L'idée est belle.
 
 ## Matériel
 
