@@ -6,6 +6,8 @@
 
 **License**: CC-BY-SA 4.0 [![CC-BY-SA 4.0](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0) This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0)
 
+**Disclaimer**: Use at your own risks
+
 ## Description
 
 This project is an OpenSCAD 3D model for a safety cover support of a colomn drilling machine. It suits the [FARtools P13E engine](http://www.perceuse-colonne.info/perceuse-a-colonne-fartools-one-p-13e/).
@@ -25,8 +27,6 @@ _**Note**: A possible corresponding piece for ~22,33€ (12,50€ + port) can be
     <img src="Pictures/IMG_20180415_153504.jpg" width="250">
     <figcaption>The repaired colomn drill</figcaption>
 </figure>
-
-Disclaimer: Use at your own risks
 
 ## Other useful links
 
