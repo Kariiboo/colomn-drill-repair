@@ -26,6 +26,8 @@ _**Note**: A possible corresponding piece for ~22,33€ (12,50€ + port) can be
     <figcaption>The repaired colomn drill</figcaption>
 </figure>
 
+Disclaimer: Use at your own risks
+
 ## Other useful links
 
 - About nut dimentions: https://fr.wikipedia.org/wiki/%C3%89crou_hexagonal
