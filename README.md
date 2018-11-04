@@ -6,7 +6,7 @@
 
 **Disclaimer**: Use at your own risks
 
-**Link to fablab-lannion's wiki page**: https://wiki.fablab-lannion.org//index.php?title=R%C3%A9paration_support_de_but%C3%A9e_d%27une_perceuse_%C3%A0_colonne
+**[Link to fablab-lannion's wiki page](https://wiki.fablab-lannion.org//index.php?title=R%C3%A9paration_support_de_but%C3%A9e_d%27une_perceuse_%C3%A0_colonne)**
 
 ## Description
 
