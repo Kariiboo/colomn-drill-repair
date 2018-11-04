@@ -5,7 +5,7 @@
 Ma perceuse à colonne [FARtools P13E engine](http://www.perceuse-colonne.info/perceuse-a-colonne-fartools-one-p-13e/) a une butée de profondeur métallique. Elle est fixée sur un support en plastique.
 Le plastique est moins résistant que le métal et va casser tôt ou tard. C'est fait.
 
-J'ai envisagé plusieurs possibilité pour réparer:
+J'ai envisagé plusieurs possibilités pour réparer:
 
 - Recoller le morceau cassé sur le support :
     J'ai essayé... mais pas comme il aurait fallu et ça n'a pas tenu... J'ai collé encore. C'est moche, mais ça tient pour le moment. Il faudra vite une autre solution.
